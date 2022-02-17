@@ -11,7 +11,7 @@
     <img margin-left="100px" alt="Alexandre's Linkdein" width="35px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />
   </a>
   <a href="https://www.instagram.com/joao_francisco29/">
-    <img alt="Alexandre's Kaggle" width="35px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
+    <img alt="Redz Kaggle" width="35px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
   </a>
   
 </p>
